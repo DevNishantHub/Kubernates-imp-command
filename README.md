@@ -1,5 +1,7 @@
-## Yaml file to create an nginc namespace
-'''kind: Namespace
+## Yaml file to create an nginx namespace
+```
+kind: Namespace
 apiVersion: v1
 metadata:
-  name: nginx'''
+  name: nginx
+ ```
